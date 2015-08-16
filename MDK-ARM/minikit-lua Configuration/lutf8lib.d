@@ -1,0 +1,14 @@
+minikit-lua configuration\lutf8lib.o: ..\Src\lua\lutf8lib.c
+minikit-lua configuration\lutf8lib.o: ..\Src\lua\lprefix.h
+minikit-lua configuration\lutf8lib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+minikit-lua configuration\lutf8lib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+minikit-lua configuration\lutf8lib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+minikit-lua configuration\lutf8lib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+minikit-lua configuration\lutf8lib.o: ..\Src\lua\lua.h
+minikit-lua configuration\lutf8lib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+minikit-lua configuration\lutf8lib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+minikit-lua configuration\lutf8lib.o: ..\Src\lua\luaconf.h
+minikit-lua configuration\lutf8lib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+minikit-lua configuration\lutf8lib.o: ..\Src\lua\lauxlib.h
+minikit-lua configuration\lutf8lib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+minikit-lua configuration\lutf8lib.o: ..\Src\lua\lualib.h

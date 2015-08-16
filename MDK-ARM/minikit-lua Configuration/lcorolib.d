@@ -1,0 +1,12 @@
+minikit-lua configuration\lcorolib.o: ..\Src\lua\lcorolib.c
+minikit-lua configuration\lcorolib.o: ..\Src\lua\lprefix.h
+minikit-lua configuration\lcorolib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+minikit-lua configuration\lcorolib.o: ..\Src\lua\lua.h
+minikit-lua configuration\lcorolib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+minikit-lua configuration\lcorolib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+minikit-lua configuration\lcorolib.o: ..\Src\lua\luaconf.h
+minikit-lua configuration\lcorolib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+minikit-lua configuration\lcorolib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+minikit-lua configuration\lcorolib.o: ..\Src\lua\lauxlib.h
+minikit-lua configuration\lcorolib.o: D:\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+minikit-lua configuration\lcorolib.o: ..\Src\lua\lualib.h
